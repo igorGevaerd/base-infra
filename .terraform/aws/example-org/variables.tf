@@ -20,3 +20,5 @@ variable "single_nat_gateway" {}
 variable "one_nat_gateway_per_az" {}
 
 variable "create_igw" {}
+
+# variable "aws_accountnumber" {}

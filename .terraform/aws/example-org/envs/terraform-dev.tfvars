@@ -11,3 +11,5 @@ one_nat_gateway_per_az = false
 aws_region = "us-east-1"
 project    = "example"
 squad      = "example"
+
+# aws_accountnumber = "123456789012" # Acc ID example
