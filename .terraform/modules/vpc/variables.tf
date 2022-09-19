@@ -2,6 +2,8 @@ variable "cidr" {}
 
 variable "azs" {}
 
+variable "tags" {}
+
 variable "private_subnets" {}
 
 variable "public_subnets" {}

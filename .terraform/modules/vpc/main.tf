@@ -16,5 +16,5 @@ module "vpc" {
 
   create_igw = var.create_igw
 
-  tags = merge(local.tags)
+  tags = merge(local.tags, var.tags)
 }
